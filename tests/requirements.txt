@@ -11,3 +11,4 @@ docxtpl
 pytest-md
 pytest-pretty
 numba
+psycopg2-binary
